@@ -8,12 +8,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 html,
 body {
-    right: 0;
-    width: 100%;
-    height: auto;
-    margin: 0px;
-    padding: 0px;
-    overflow-x: hidden; 
     margin: 0;
     font-size: 100%;
     background: #fff;
